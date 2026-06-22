@@ -5,10 +5,11 @@ Este projeto apresenta uma pipeline de limpeza, enriquecimento e análise de dad
 ## 🛠️ Tecnologias Utilizadas
 * *Python (Pandas & NumPy)*: Utilizado para a limpeza inicial, tratamento de valores nulos, conversão de tipos de dados e criação de novas variáveis (como faixas etárias e classificação de depósitos).
 * *SQL (SQL Server)*: Utilizado para consultas estruturadas e manipulação do banco de dados.
-* *Power BI / Looker Studio: *(Escolha o que você usou) Desenvolvido para a criação do dashboard interativo e visualização dos insights.
+* *Power BI Desenvolvido para a criação do dashboard interativo e visualização dos insights.
 
 ## 📈 O Dashboard
-[👉 CLIQUE AQUI PARA ACESSAR O DASHBOARD INTERATIVO](https://app.powerbi.com/groups/me/reports/28806662-df59-4d0b-9011-199440b294fa/6236bcc56629d4f9144f?experience=power-bi)
+[👉 CLIQUE AQUI PARA ACESSAR  O DASHBOARD INTERATIVO]
+(https://app.powerbi.com/groups/me/reports/28806662-df59-4d0b-9011-199440b294fa/6236bcc56629d4f9144f?experience=power-bi)
 
 ---
 
